@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hamza's personal site!
+          Hamzas personal site!
         </h1>
 
 
